@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at [iPronics Programmable Photonics](https://ipronics.com/).
+- 🌱 I’m currently learning programmable photonic circuit design and simulation.
+- 👯 I’m looking to collaborate on projects related to programmable photonic circuits.
+- 🤔 I’m looking for help with graph theory applied to hardware platforms (e.g., FPGAs)
+- 💬 Ask me about photonic computing accelerators.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/david-sanchez-2ab5a8183" target="blank"><img align="center" src="img/linkedin.svg" height="100" /></a>
+- 😄 Pronouns: He/him
+
 <!--
 **ricarvid1/ricarvid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
