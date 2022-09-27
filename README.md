@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects related to programmable photonic circuits.
 - 🤔 I’m looking for help with graph theory applied to hardware platforms (e.g., FPGAs)
 - 💬 Ask me about photonic computing accelerators.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/david-sanchez-2ab5a8183" target="blank"><img align="center" src="img/linkedin.svg" height="100" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/david-sanchez-2ab5a8183" target="blank"><img align="center" src="img/linkedin.png" height="15" /></a>
 - 😄 Pronouns: He/him
 
 <!--
